@@ -1,5 +1,5 @@
 import Image from "next/image";
-import 'tailwindcss';
+import 'tailwindcss'
 
 export default function Home() {
   return (
